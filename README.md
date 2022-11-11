@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thatonehen
 - 👀 I’m interested in coding & developing
-- 🌱 I’m currently learning math & Lua coding
+- 🌱 I’m currently learning algebra & c++ coding
 - 💞️ I’m looking to collaborate on making applications, but if you're willing to collaborate with me, I make c# and c++ applications.
 - 📫 How to reach me thatonehen@outlook.com
 
