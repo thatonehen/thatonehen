@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thatonehen
 - 👀 I’m interested in coding & developing
-- 🌱 I’m currently learning algebra & c++ coding
-- 💞️ I’m looking to collaborate on making applications, but if you're willing to collaborate with me, I make c# and c++ applications.
+- 🌱 I’m currently learning how to use omarchy
+- 💞️ I’m not really looking to collaborate.
 - 📫 How to reach me thatonehen@protonmail.com
 
 <!---
